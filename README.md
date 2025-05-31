@@ -49,24 +49,25 @@ $ cd chunkstore-file-manager-cpp
 # Create build directory and compile
 $ mkdir build && cd build
 $ cmake ..
-$ make
+$ camke --build . --config release
+$ cd release (if release folder gets created.. if ninja build is installed then it may not get created)
 ```
 
 ---
 
-## 🚀 Run Server
+## 🚀 Now Run Server
 
 ```bash
-./file_manager
+./file_manager.exe
 ```
 
-The server starts at `http://localhost:8080`.
+The server starts at `http://localhost:443`.
 
 ---
 
 ## 🧪 Example Usage
 
-Use `curl`, Postman, or your frontend to interact:
+Use `curl` or Postman to interact:
 
 ```bash
 curl -X POST -F 'file=@mydoc.pdf' http://localhost:8080/files
