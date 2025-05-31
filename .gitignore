@@ -1,0 +1,8 @@
+/chunks
+/metadata
+/build
+hash_db.json
+sample.txt
+server.crt
+server.key
+# Ignore all files in the chunks directory
