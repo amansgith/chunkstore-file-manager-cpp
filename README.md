@@ -39,7 +39,7 @@ Make sure the following are pre-installed on your system:
 
 ---
 
-## 🔧 Build Instructions
+## 🔧 Build Instructions (For Windows, may add in future for other platforms)
 
 ```bash
 # Clone the repo
