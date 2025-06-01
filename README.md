@@ -96,5 +96,3 @@ chunkstore-file-manager-cpp/
 
 ---
 
-## 📜 License
-MIT License
