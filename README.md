@@ -28,7 +28,7 @@ ChunkStore is a C++ microservice that simulates core IPFS-like functionality for
 
 ## 🛠 Requirements
 
-Make sure the following are pre-installed on your system:
+Make sure the following are pre-installed on your system (Installation guides may vary according to OS):
 
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib)
 - C++20 compatible compiler
@@ -39,7 +39,7 @@ Make sure the following are pre-installed on your system:
 
 ---
 
-## 🔧 Build Instructions (For Windows, may add in future for other platforms)
+## 🔧 Build Instructions
 
 ```bash
 # Clone the repo
